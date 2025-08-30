@@ -9,6 +9,25 @@ The first task shows how to create a basic Series with a default numeric index. 
 
 ### Projects
 
-* [Project 1: Pandas Series Basics](pandas_series_basics.ipynb)
-* [Project 2: Series with a Custom Index](pandas_series_basics.ipynb)
+* [Pandas Series Basics](pandas_series_basics.ipynb)
+
 ---
+
+
+# Pandas DataFrames: Creation and Selection
+
+This project focuses on the core concepts of the Pandas DataFrame, a two-dimensional data structure that's essential for data analysis in Python.
+
+It demonstrates how to:
+- Create a DataFrame from a Python dictionary.
+- Select a single column, which returns a Pandas Series.
+- Select a specific row by its index using the `.loc` accessor.
+- Select multiple columns at once, which returns a new DataFrame.
+
+This project is a key step in understanding how to access and manipulate data in Pandas.
+
+---
+### Projects
+
+* [DataFrame Basics](DataFrame_basics.ipynb)
+
