@@ -54,3 +54,21 @@ This notebook serves as a practical example of how to begin any data-driven proj
 * [Video Game Sales Analysis](data_cleaning_and_exploration.ipynb)
 
 ---
+
+# Pandas: Filtering, Sorting, and Grouping Data
+
+This project demonstrates core data manipulation techniques in Pandas to ask and answer specific questions about a dataset. It builds on the data loading and cleaning skills covered in previous projects.
+
+### Key Concepts Covered:
+
+-   **Filtering:** Selecting a subset of data based on a condition using boolean indexing. This includes single and multiple conditions.
+-   **Sorting:** Ordering a DataFrame by specific columns using `sort_values()` to find the highest or lowest values.
+-   **Grouping:** Splitting data into groups and applying an aggregation function (like `sum()` or `mean()`) to each group using `groupby()`.
+-   **Basic Visualization:** Creating simple bar and line plots to visualize the results of data analysis.
+
+This notebook is a practical example of how to extract meaningful insights from a dataset.
+
+### File
+
+* [Data Filtering and Analysis](data_filtering_and_analysis.ipynb)
+---
