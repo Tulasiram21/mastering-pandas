@@ -72,3 +72,21 @@ This notebook is a practical example of how to extract meaningful insights from 
 
 * [Data Filtering and Analysis](data_filtering_and_analysis.ipynb)
 ---
+
+# Pandas: Data Manipulation and Feature Engineering
+
+This project demonstrates professional-level data cleaning and manipulation techniques in the Pandas library. It builds on foundational skills by showing how to handle real-world data challenges.
+
+### Key Concepts Covered:
+
+-   **Handling Missing Data:** Using the `.fillna()` method to replace missing values and preserve data.
+-   **Data Type Conversion:** Correcting data types with `.astype()` for proper analysis and efficient storage.
+-   **Feature Engineering:** Creating new columns from existing data using mathematical operations and custom functions with the powerful `.apply()` method.
+
+This notebook is a practical example of how to transform raw, messy data into a clean, usable dataset ready for deep analysis.
+
+
+### File
+
+* [Data Manipulation](Data_manipulation.ipynb)
+---
