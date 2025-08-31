@@ -90,3 +90,21 @@ This notebook is a practical example of how to transform raw, messy data into a 
 
 * [Data Manipulation](Data_manipulation.ipynb)
 ---
+
+# Pandas: Reshaping and Pivoting Data
+
+This project demonstrates how to use the powerful `pivot_table()` function to summarize and reshape data in a Pandas DataFrame. It shows how to transform a long, detailed dataset into a clear, concise summary table.
+
+### Key Concepts Covered:
+
+-   **Data Reshaping:** Rearranging data from a "long" format (one row per observation) to a "wide" format (summarized table).
+-   **Pivot Tables:** Using the `pivot_table()` function to aggregate and summarize data based on multiple categories.
+-   **Aggregation Functions:** Specifying different types of aggregation (e.g., sum, mean, count) to analyze data in various ways.
+
+This notebook is a key step in learning how to create insightful reports and dashboards from raw data.
+
+
+### File
+
+* [Data Pivoting](Data_pivoting.ipynb)
+---
