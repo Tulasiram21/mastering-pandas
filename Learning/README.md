@@ -143,3 +143,25 @@ This notebook is a practical guide to handling and preparing messy text data for
 * [Pandas String Methods](Pandas_string_methods.ipynb)
 
 ---
+# Pandas: Time-Series Analysis
+
+This project demonstrates how to work with date and time data in Pandas, a crucial skill for analyzing trends and patterns over time. It shows how to convert a standard column into a special time-series object that's ready for analysis.
+
+### Key Concepts Covered:
+
+-   **Converting Data Types:** Using the `pd.to_datetime()` function to convert a column into a time-series data type.
+-   **Extracting Time-Based Features:** Using the powerful `.dt` accessor to pull out information like the year, month,day name and day of the week, quarter, and if a year is a leap year with `.year`,`.month`,`.day_name()`,`.dayofweek`,`quarter`,`.is_leap_year`
+-   **Time-Series Aggregation:** Grouping data by time-based categories (like day of the week) to find trends.
+
+This notebook is a practical guide to handling and preparing messy text data for analysis.
+
+
+### Data Source
+
+-   [Walmart Sales Dataset](https://www.kaggle.com/datasets/manjeetsingh/walmart-sales-dataset-forecasting)
+
+
+### File
+
+* [Pandas Time-Series Analysis](pandas_time_series.ipynb)
+---
