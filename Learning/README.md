@@ -108,3 +108,20 @@ This notebook is a key step in learning how to create insightful reports and das
 
 * [Data Pivoting](Data_pivoting.ipynb)
 ---
+# Pandas: Data Merging and Analysis
+
+This project serves as a capstone that demonstrates how to work with multiple datasets by merging them together. It combines skills from previous lessons to perform a complete analysis from start to finish.
+
+### Key Concepts Covered:
+
+-   **Data Merging:** Using the `pd.merge()` function to combine two separate DataFrames based on a common column.
+-   **Multi-Source Analysis:** Performing a complete data analysis workflow on a combined dataset.
+-   **Professional Workflow:** Simulating a real-world scenario where data is not available in a single, clean file.
+
+This notebook is a great example of how to handle a common and crucial task in data science.
+
+### File
+
+* [Pandas Data Merging](pandas_data_merging.ipynb)
+
+---
