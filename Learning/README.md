@@ -125,3 +125,21 @@ This notebook is a great example of how to handle a common and crucial task in d
 * [Pandas Data Merging](pandas_data_merging.ipynb)
 
 ---
+# Pandas: String Manipulation and Text Cleaning
+
+This project demonstrates how to work with text data in Pandas using the powerful `.str` accessor. It covers key methods for cleaning and standardizing string columns, which is a crucial skill in data analysis.
+
+### Key Concepts Covered:
+
+-   **Standardizing Text:** Converting strings to a consistent case with `.str.lower()` and `.str.upper()`.
+-   **Finding and Replacing:** Using `.str.replace()` to fix typos or standardize names.
+-   **Filtering with Text:** Creating a filtered DataFrame based on a string's content using `.str.contains()`.
+
+This notebook is a practical guide to handling and preparing messy text data for analysis.
+
+
+### File
+
+* [Pandas String Methods](Pandas_string_methods.ipynb)
+
+---
